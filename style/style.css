@@ -1,0 +1,20 @@
+#header{
+  
+    
+        background-image: linear-gradient(to right, #264653, #264653);
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-blend-mode:multiply;
+
+}
+.rating-icon{
+    width: 20px;
+}
+
+.btn-bz-danger{
+    background-color: rgba(234, 82, 115, 0.505);
+    color: white;
+}
+
+
